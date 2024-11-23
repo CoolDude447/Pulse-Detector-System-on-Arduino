@@ -1,22 +1,3 @@
-/*
- * File:   app.c
- * Author: Armstrong Subero
- * Processor: SAMD21G18A @ 48MHz, 3.3v
- * Program: Source file for application
- * Compiler: ARM-GCC (v6.3.1, Atmel Studio 7.0)
- * Program Version 1.0
- * Program Description: This file contains your application source
- *
- * Modified From: None
- * 
- * Change History:
- *
- * Author             Rev     Date          Description
- * Armstrong Subero   1.0     26/05/2020    Initial Release.
- * 
- * Updated on May 26, 2020, 11:40 AM
- */
-
 //////////////////////////////////////////////////////////////////////////
 // Include and defines
 //////////////////////////////////////////////////////////////////////////
