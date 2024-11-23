@@ -1,25 +1,3 @@
-/*
- * File:   definitions.h
- * Author: Armstrong Subero
- * Processor: SAMD21G18A @ 48MHz, 3.3v
- * Program: Header file for application
- * Compiler: ARM-GCC (v6.3.1, Atmel Studio 7.0)
- * Program Version 1.0
- * Program Description: This header file contains hardware definitions for SAMD21G18A
- * Hardware Description: An LED is connected via a 1k resistor to PIN PA17
- *                       The internal clock is output on PIN PA28
- *
- * Modified From: _00_LED_ON
- * 
- * Change History:
- *
- * Author                 Rev     Date          Description
- * Armstrong Subero       1.1     26/05/2020    Added Support for SAMD21G18A
- * Microchip Technology   1.0     30/05/2018    Initial Release.
- * Copyright: Copyright (C) 2018 Microchip Technology Inc. and its subsidiaries
- * Updated on May 25, 2020, 11:18 AM
- */
-
 #ifndef DEFINITIONS_H_
 #define DEFINITIONS_H_
 
