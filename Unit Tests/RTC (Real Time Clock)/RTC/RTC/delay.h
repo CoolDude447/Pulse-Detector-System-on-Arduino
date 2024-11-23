@@ -1,23 +1,3 @@
-/*
- * File:   delay.h
- * Author: Armstrong Subero
- * Processor: SAMD21G18A @ 48MHz, 3.3v
- * Program: Header file for application
- * Compiler: ARM-GCC (v6.3.1, Atmel Studio 7.0)
- * Program Version 1.0
- * Program Description: This header file provides for delay functions using 
- *                      clock cycles
- * Modified From: None
- * 
- * Change History:
- *
- * Author             Rev     Date          Description
- * Armstrong Subero   1.0     26/05/2020    Initial Release.
- * 
- * Updated on May 25, 2020, 12:45 PM
- */
-
-
 #ifndef DELAY_H_
 #define DELAY_H_
 
