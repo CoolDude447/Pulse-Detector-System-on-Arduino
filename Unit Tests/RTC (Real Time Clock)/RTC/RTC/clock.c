@@ -1,26 +1,3 @@
-/*
- * File:   clock.c
- * Author: Armstrong Subero
- * Processor: SAMD21G18A @ 48MHz, 3.3v
- * Program: Source file for application
- * Compiler: ARM-GCC (v6.3.1, Atmel Studio 7.0)
- * Program Version 1.0
- * Program Description: This file contains source code to set up
- *                      system clock
- *
- * Modified From: _00_LED_ON
- * 
- * Change History:
- *
- * Author                Rev     Date          Description
- * Armstrong Subero      1.1     26/05/2020    Runs on SAMD21G18A
- * Microchip Technology  1.0     30/06/2018    Initial Release
- * Copyright: Copyright (C) 2018 Microchip Technology Inc. and its subsidiaries
- *
- * Updated on May 26, 2020, 11:45 AM
- */
-
-
 //////////////////////////////////////////////////////////////////////////
 // Include and defines
 //////////////////////////////////////////////////////////////////////////
